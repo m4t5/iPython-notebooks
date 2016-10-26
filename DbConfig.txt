@@ -1,5 +1,0 @@
-[dbconfig]
-host = localhost
-user = <user>
-userpw = <pass>
-db = dft09-15
